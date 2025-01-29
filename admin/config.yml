@@ -7,8 +7,7 @@
 
 # Enter your GitHub repo path and branch (defaults to master)
 backend:
-  name: github
-  repo: bamboounderwear/sveltiacms
+  name: git-gateway
   branch: master
 
 # The folder used to store uploaded images
